@@ -1,8 +1,8 @@
 ﻿# Object Detection, Tracking, Counting in Region Project
 
- This repository houses a sophisticated system that leverages the YOLOv8 model for real-time object detection and tracking. It's engineered to accurately count objects within a predefined region from video feeds, making it an invaluable asset for sectors like retail, public transportation, and public space management.
+In this repo I would like to share with you a project that I have been working on and adding to and subtracting from. This project is a system that uses Python, OpenCV and Ultralytics' big YOLOv8 model to perform real-time object detection, tracking, counting and performance analysis in a specific region, graphing it instantly and saving all the information and states instantly in a csv file. The unique value of the project is the object detection, tracking, counting and component logic that makes coding more readable and cleaner.
 
-
+It works with a customized component that manually visualizes and instantly graphs the performance of the bounding box, score and ID information for each object detected in a given area. This provides immediate feedback on the tracked objects. you can see it in the test video below. if you want to try it, you can use it by changing the object name in the class_id part of the code and manually entering the zone points.
 
 
 
@@ -34,7 +34,7 @@ To set up the system, clone the repository and install the necessary dependencie
 
 * Clone the repository:
    ```sh
-   git clone https://github.com/hocuf/Object-Detection-Tracking-Counting--Computer-Vision.git
+   git clone https://github.com/hocuf/Object-Detection-Tracking-Counting-in-Region--Computer-Vision.git
 * To run the main script and start processing your video feed:
    ```sh
    python main.py
