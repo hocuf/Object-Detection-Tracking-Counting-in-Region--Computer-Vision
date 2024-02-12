@@ -1,17 +1,14 @@
 ﻿# Object Detection, Tracking, Counting in Region Project
 
+ This repository houses a sophisticated system that leverages the YOLOv8 model for real-time object detection and tracking. It's engineered to accurately count objects within a predefined region from video feeds, making it an invaluable asset for sectors like retail, public transportation, and public space management.
+
+
 
 
 
 https://github.com/hocuf/Object-Detection-Tracking-Counting-in-Region--Computer-Vision/assets/92105996/604a5016-dece-46d1-9f33-9ae568612cfe
 
 
-
-
-
-# Real-Time Object Detection and Tracking System
-
-This repository houses a sophisticated system that leverages the YOLOv8 model for real-time object detection and tracking. It's engineered to accurately count objects within a predefined region from video feeds, making it an invaluable asset for sectors like retail, public transportation, and public space management.
 
 
 ## Key Features
